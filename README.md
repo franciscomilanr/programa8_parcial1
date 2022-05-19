@@ -1,10 +1,10 @@
 # programa8_parcial1
 
 <li><b>Autor: </b>Franciscomilan</li>
+ <li><b>Fecha: </b>14/02/2022</li>
  <li><b>Escuela: </b>Universidad uvm</li>
  <li><b>Profesor: </b>Armando Cruz</li>
  <li><b>Materia: </b>Programacion estructurada</li>
- <li><b>Fecha: </b>14/02/2022</li>
  <li><b>Ciclo: </b>01/2022</li>
  <br>
  <li><b>En este programa se muestra el uso de: </b></li>
